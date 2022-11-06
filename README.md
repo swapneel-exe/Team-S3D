@@ -12,7 +12,7 @@
 *	Onboarding of retailers so that Customers can easily access different Services on the tip of their fingers.
 
 ## Presentation Slides Link: <br>
-   https://bit.ly/3hgHsNr
+   https://bit.ly/3Tasdmr
 
 ## Team Member Details: S3D
 *	Sarthak Jain
